@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+}
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+.grid div {
+  height: 20px;
+  width: 20px;
+  /* background-color: red; */
+}
+
+.Brick {
+  /* background: rgb(144, 5, 36); */
+  background: blue;
+  box-shadow: inset 0px 0px 0px 1px rgb(177, 177, 177);
+}
+
+.mini-grid {
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+.container {
+  display: flex;
+}
+
+
+.grid {
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.Brick {
+  background-color: blue;
+}
+
+
+.mini-grid {
+  margin-left: 50px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+
+.mini-grid div {
+  height: 20px;
+  width: 20px;
+}
